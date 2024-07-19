@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://komarev.com/ghpvc/?username=PeterHusman&style=flat&color=DC143C)
+![](https://img.shields.io/github/followers/PeterHusman?style=social)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PeterHusman&column=8&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterHusman&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+!Peter's GitHub stats -- just tomfoolery
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterHusman&theme=tokyonight)](https://git.io/streak-stats)
