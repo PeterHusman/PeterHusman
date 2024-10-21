@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Peter. I am curently studying computer science and mathematical sciences at Worcester Polytechnic Institute.
 
+I love pushing computational systems to their limits, improving both functionality and performance as far as I can bring them.
+
+These are a few of the things I've done.
+
+
+<!--
 ![](https://komarev.com/ghpvc/?username=PeterHusman&style=flat&color=DC143C)
 ![](https://img.shields.io/github/followers/PeterHusman?style=social)
 
@@ -26,3 +33,4 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterHusman&theme=tokyonight)](https://git.io/streak-stats)
+-->
